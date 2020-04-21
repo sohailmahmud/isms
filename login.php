@@ -128,7 +128,6 @@ $action = '';
 		  </div>
 		</div>
 		</div>
-//end
       </div>
     </div>
 <?php
