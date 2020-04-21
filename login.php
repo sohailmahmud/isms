@@ -56,7 +56,7 @@ $action = '';
 				</div>
 			  </div>
 			</div>
-<?php
+<?p
 			require 'inc/footer.php';
 			echo '</body></html>';
 			exit();
@@ -128,6 +128,7 @@ $action = '';
 		  </div>
 		</div>
 		</div>
+//end
       </div>
     </div>
 <?php
